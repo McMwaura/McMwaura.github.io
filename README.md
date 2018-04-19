@@ -11,15 +11,16 @@ This is the landing page for my Moringa School Projects, as well my future proje
 The landing page can be fund at [Mcmwaura](https://McMwaura.github.io)
 
 ### Setup
-:confused:?? To clone this repository to your local repository follw the steps:
-1. run ```git clone https://github.com/McMwaura/McMwaura.github.io.git
+:confused:?? To clone this repository to your local repository follow the steps:
+1. run
+
+```
+git clone https://github.com/McMwaura/McMwaura.github.io.git
+
 ```
 
-2. open index.html :satisfied:
+2. open index.html
 
 
 #### License Information
  [License Information](./license/license.md)
-
- :sunglasses::sunglasses:
-:sunglasses::sunglasses:
