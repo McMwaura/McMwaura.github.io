@@ -4,6 +4,15 @@ body{
 .intro{
   color: #ffffff;
 }
+.intro h1{
+  text-align: center;
+}
+.intro h2{
+  text-align: center;
+}
+.intro p{
+  text-align: center;
+}
 .content{
   display:flex;
   color: #ffffff;
