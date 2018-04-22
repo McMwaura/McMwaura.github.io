@@ -7,4 +7,14 @@ body{
 .content{
   display:flex;
   color: #ffffff;
+  margin: 35px;
+}
+.about{
+  flex: 2;
+}
+.projects{
+  flex: 1;
+}
+.pics{
+  flex: 1;
 }
