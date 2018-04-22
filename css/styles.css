@@ -11,10 +11,13 @@ body{
 }
 .about{
   flex: 2;
+  order: 2;
 }
 .projects{
   flex: 1;
+  order: 3;
 }
 .pics{
   flex: 1;
+  order: 1;
 }
