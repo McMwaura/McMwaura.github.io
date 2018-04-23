@@ -27,12 +27,12 @@ body{
   flex: 1;
   order: 3;
   padding-left: 20px;
-  background-color: #e26344;
+  
 }
 .pics{
   flex: 1;
   order: 1;
-  background-color: #e26344;
+
 }
 .abouth3 {
   text-align: center;
