@@ -16,7 +16,7 @@ body{
 .content{
   display:flex;
   color: #ffffff;
-  margin: 35px;
+  border: 10px;
 }
 .about{
   flex: 2;
