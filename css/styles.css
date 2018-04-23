@@ -1,5 +1,5 @@
 body{
-  background-image: url(../images/webdev.jpg);
+  background-color: #d8806a;
 }
 .intro{
   color: #ffffff;
@@ -22,12 +22,16 @@ body{
   flex: 2;
   order: 2;
   text-align: justify;
+  color: #3e5de8;
+  font-size: 24px;
+  /*font-weight: bold;*/
+  opacity: 0.8;
 }
 .projects{
   flex: 1;
   order: 3;
   padding-left: 20px;
-  
+
 }
 .pics{
   flex: 1;
