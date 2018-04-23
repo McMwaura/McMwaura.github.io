@@ -42,3 +42,7 @@ body{
 .abouth3 {
   text-align: center;
 }
+.webdev {
+  display:flex;
+  justify-content: center;
+}
