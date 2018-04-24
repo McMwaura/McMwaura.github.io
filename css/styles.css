@@ -1,5 +1,10 @@
 body{
-  background-color: #d8806a;
+  background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+background: #a90329; /* Old browsers */
+background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); /* IE6-9 */;
   font-family: sans-serif;
 }
 
@@ -43,15 +48,15 @@ body{
   flex: 2;
   order: 1;
   text-align: justify;
-  color: #3e5de8;
+  color: #fff;
   font-size: 19px;
   /*font-weight: bold;*/
-  opacity: 0.8;
   padding: 3%;
   padding-top: 0.3%;
   border: 3%;
-  border-color: #ffffff;
+  border-color: #3e5de8;
   border-style: solid;
+  font-family: 'Indie Flower', cursive;
 }
 
 .projects{
@@ -61,7 +66,9 @@ body{
   border: 3%
   border-color: #ffffff;
   border-style: solid;
+  border-color: #3e5de8;
   margin-left: 5px;
+  color: #fff;
 }
 
 /*.pics{
@@ -83,15 +90,44 @@ li{
   list-style-type: georgian;
 }
 
+li a{
+  color: #fff;
+}
+
 #footer{
   margin: 10px;
   background-color: #898487;
   height: 60px;
 }
-#footer li{
+
+footer li{
   display: inline-block;
-  padding-left: 30px;
+
 }
-#footer li a{
+
+.contact{
   text-align: center;
+  margin: 30px;
+  }
+
+.contact a{
+  text-decoration: none;
+  margin: 20px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: #3e5de8;
+  border-radius: 50px;
+  padding: 10px 40px;
+  background-color: #fff;
+  color: #000000;
+}
+
+.contact a:hover{
+  background-color: #000000;
+  color: #fff;
+}
+
+.moringa{
+  color: #fff;
+  font-weight: bold;
 }
