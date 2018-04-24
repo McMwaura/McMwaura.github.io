@@ -21,9 +21,13 @@ body{
   padding-top: 1%;
 }
 .theo img{
-  height: 300px;
+  height: 200px;
   padding-left: 2%;
-  padding-top: 1%; 
+  padding-top: 1%;
+  align-items: center;
+}
+.img{
+  display:block;
 }
 .content{
   display:flex;
@@ -50,16 +54,16 @@ body{
   padding-left: 20px;
 
 }
-.pics{
+/*.pics{
   flex: 1;
   order: 1;
   padding-right: 2%;
 
-}
+}*/
 .abouth3 {
   text-align: center;
 }
-.webdev {
+/*.webdev {
   display:flex;
   justify-content: center;
-}
+}*/
