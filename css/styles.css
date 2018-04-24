@@ -5,13 +5,7 @@ body{
 .intro{
   color: #ffffff;
 }
-.intro h1{
-  text-align: center;
-}
-.intro h2{
-  text-align: center;
-}
-.intro p{
+.intro{
   text-align: center;
 }
 #header{
