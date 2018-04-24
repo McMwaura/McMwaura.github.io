@@ -84,14 +84,14 @@ li{
 }
 
 #footer{
-  border: 3%
-  border-color: #ffffff;
-  border-style: solid;
   margin: 10px;
   background-color: #898487;
   height: 60px;
 }
-
 #footer li{
   display: inline-block;
+  padding-left: 30px;
+}
+#footer li a{
+  text-align: center;
 }
