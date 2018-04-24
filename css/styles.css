@@ -2,15 +2,19 @@ body{
   background-color: #d8806a;
   font-family: sans-serif;
 }
+
 .intro{
   color: #ffffff;
 }
+
 .intro{
   text-align: center;
 }
+
 .intro h1{
   font-size: 29px;
 }
+
 #header{
   background-color: #9BA0EA;
   padding-bottom: 2.5%;
@@ -19,8 +23,8 @@ body{
   border: 3%;
   border-color: #ffffff;
   border-style: solid;
-
 }
+
 .theo{
   height: 200px;
   padding-left: 0%;
@@ -34,6 +38,7 @@ body{
   color: #ffffff;
   border: 10px;
 }
+
 .about{
   flex: 2;
   order: 1;
@@ -48,6 +53,7 @@ body{
   border-color: #ffffff;
   border-style: solid;
 }
+
 .projects{
   flex: 1;
   order: 3;
@@ -57,6 +63,7 @@ body{
   border-style: solid;
   margin-left: 5px;
 }
+
 /*.pics{
   flex: 1;
   order: 1;
@@ -66,10 +73,25 @@ body{
 .abouth3 {
   text-align: center;
 }
+
 /*.webdev {
   display:flex;
   justify-content: center;
 }*/
+
 li{
   list-style-type: georgian;
+}
+
+#footer{
+  border: 3%
+  border-color: #ffffff;
+  border-style: solid;
+  margin: 10px;
+  background-color: #898487;
+  height: 60px;
+}
+
+footer p{
+  color: #ffffff;
 }
