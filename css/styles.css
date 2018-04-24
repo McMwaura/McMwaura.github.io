@@ -13,6 +13,10 @@ body{
   padding-bottom: 2.5%;
   margin: 2.5%;
   padding-top: 1%;
+  border: 3%;
+  border-color: #ffffff;
+  border-style: solid;
+
 }
 .theo{
   height: 200px;
@@ -45,7 +49,10 @@ body{
   flex: 1;
   order: 3;
   padding-left: 20px;
-
+  border: 3%
+  border-color: #ffffff;
+  border-style: solid;
+  margin-left: 5px;
 }
 /*.pics{
   flex: 1;
