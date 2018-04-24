@@ -92,6 +92,6 @@ li{
   height: 60px;
 }
 
-footer p{
-  color: #ffffff;
+#footer li{
+  display: inline-block;
 }
