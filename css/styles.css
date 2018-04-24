@@ -26,9 +26,7 @@ body{
   padding-top: 1%;
   align-items: center;
 }
-.img{
-  display:block;
-}
+
 .content{
   display:flex;
   color: #ffffff;
